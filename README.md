@@ -1,4 +1,3 @@
-x2a-khadya-stock
 <!DOCTYPE html>
 <html lang="hi">
 <head>
